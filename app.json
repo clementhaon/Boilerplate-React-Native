@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2f6f2f34-1b7c-45d4-b07f-b8ce6ad87e9e"
+      }
+    },
+    "owner": "skude"
   }
 }
